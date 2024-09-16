@@ -1,0 +1,171 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header h1 {
+    margin: 0;
+    display:contents;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li button{
+    color: rgb(255, 255, 255);
+    background-color: aqua;
+    border-radius: 8px;
+    border: none;
+    padding: 8px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #3639cee1;
+    font-weight: bold;
+}
+
+main section .container{
+    text-align: center;
+}
+
+main .container h2{
+    margin: auto;
+    display:contents;
+    text-align: center;
+}
+
+main {
+    padding: 40px 20px;
+}
+
+main .container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+    text-align: center;
+}
+
+footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.box2{
+    height: auto;
+    width: 35%;
+    border: transparent;
+    padding: 75px;
+    /* margin: 130px; */
+    
+}
+.box1{
+    height: auto;
+    width: 35%;
+    border: transparent;
+    padding: 75px;
+    /* margin: 130px; */
+    
+}
+.box3{
+    height: auto;
+    width: 25%;
+    border: transparent;
+    padding: 75px;
+    /* margin: 130px; */
+    
+}
+img {
+    border-radius: 10%;
+}
+
+main .container h2{
+    margin: auto;
+    display:contents;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+footer h1 {
+    margin: 0;
+    display:contents;
+}
+
+footer nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+footer nav ul li {
+    margin-left: 20px;
+}
+
+footer nav ul li button{
+    color: rgb(255, 255, 255);
+    background-color: aqua;
+    border-radius: 8px;
+    border: none;
+    padding: 8px;
+
+}
+
+ footer nav ul li a {
+    text-decoration: none;
+    color: #3639cee1;
+    font-weight: bold;
+}
